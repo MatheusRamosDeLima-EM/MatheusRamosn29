@@ -1,3 +1,6 @@
-Olá, sou o Matheus Ramos de Lima
+Olá, sou Matheus Ramos de Lima
 <br>
-*Estudante de programação
+* Estudante de programação
+* Ambicioso por novos desafios
+<br>
+Bem vindo ao meu perfil!
